@@ -1,7 +1,7 @@
 # Project McNulty: Supervised Learning and Online Gaming  
 ### Project 3 of Metis Data Science Bootcamp  
 
-The third project at Metis concentrated on exploring multiple supervised learning techniques to see what we could learn from datasets of our choice. I was drawn to datasets about online video games. The professional video game scene has seen huge growth in both revenue and online stream numbers. Teams are competing for huge cash prizes, and with so much money on the line, these teams are now starting to use data science techniques in order to provide themselves with the best win conditions for the respective game they're playing. I was interested in match data from the most popular game in the world, *League* *of* *Legends*.  
+The third project at Metis concentrated on exploring multiple supervised learning techniques to see what we could learn from datasets of our choice. With this in mind, I was drawn to datasets about online video games. The professional video game scene has seen huge growth in both revenue and online stream numbers. Teams are competing for huge cash prizes, and with so much money on the line, these teams are now starting to use data science techniques in order to provide themselves with the best win conditions for the respective game they're playing. I was interested in match data from the most popular game in the world, *League* *of* *Legends*.  
 
 ### What is League of Legends?  
 
@@ -9,9 +9,10 @@ The third project at Metis concentrated on exploring multiple supervised learnin
 
 ### Objective  
 
-For this project, I was curious to see if I could predict the winner of a match based on what heroes each team picks and bans, as well as what objectives in the game are taken first.  
+For this project, I was curious to see if I could predict the winner of a match based on what champions each team picks and bans, as well as what objectives in the game are taken first.  
 
 ### Terminology  
+Definitions for terminology I use throughout the notebooks.  
 
   * **Champion / Hero**: a player controlled character with unique abilities 
   * **Summoner Spell**: extra spells each champion gets, not unique to champion
@@ -20,4 +21,8 @@ For this project, I was curious to see if I could predict the winner of a match 
   * **Inhibitor**: defensive structure located before the nexus, doing no damage to enemies
   * **Nexus**: final defensive structure in a team's base, doing no damage to enemies
   * **Baron, Dragon, and Rift Herald**: neutral objectives located around the game map that teams can kill for in-game stat boosts
+
+---  
+
+`Project_Notebooks` contains the five notebooks for this project.  
 
