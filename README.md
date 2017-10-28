@@ -31,3 +31,4 @@ Definitions for terminology I use throughout the notebooks.
   4. `Project_McNulty_EDA_Visuals.ipynb`  
   5. `Project_McNulty_Modeling.ipynb`  
 
+`Project_Data` contains pickle files created from notebooks.
