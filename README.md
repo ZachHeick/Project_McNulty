@@ -7,7 +7,7 @@ The third project at Metis concentrated on exploring multiple supervised learnin
 
 *League of Legends* is a multiplayer online battle arena (MOBA) video game published by Riot Games. The game consists of two teams of five human players. Each human player controls a champion with unique abilities and fights against the team of other players. Players can also ban a champion away from the other team, preventing that champion from being picked. The object of the game is destroy the opposing team's nexus, the final structure located in a base surrounded by other defensive structures that must be destroyed prior. Each League of Legends match is discrete.  
 
-### Objective  
+### Project Objective  
 
 For this project, I was curious to see if I could predict the winner of a match based on what champions each team picks and bans, as well as what objectives in the game are taken first.  
 
