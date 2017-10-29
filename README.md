@@ -9,7 +9,7 @@ The third project at Metis concentrated on exploring multiple supervised learnin
 
 ### Project Objective  
 
-For this project, I was curious to see if I could predict the winner of a match based on what champions each team picked and banned, as well as what objectives in the game were taken first. The metric I wanted to maximize was accuracy.  
+I was curious to see if I could predict the winner of a match based on what champions each team picked and banned, as well as what objectives in the game were taken first. The metric I wanted to maximize was accuracy.  
 
 ### Terminology  
 Definitions for terminology I use throughout the notebooks.  
