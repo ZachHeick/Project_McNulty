@@ -1,7 +1,7 @@
 # Project McNulty: Supervised Learning and Online Gaming  
 ### Project 3 of Metis Data Science Bootcamp  
 
-The third project at Metis concentrated on exploring multiple supervised learning techniques to see what we could learn from datasets of our choice. With this in mind, I was drawn to datasets about online video games. The professional video game scene has seen huge growth in both revenue and online stream numbers. Teams are competing for huge cash prizes, and with so much money on the line, these teams are now starting to use data science techniques in order to provide themselves with the best win conditions for the respective game they're playing. I was interested in match data from the most popular game in the world, *League* *of* *Legends*.  
+The third project at Metis concentrated on exploring multiple supervised learning techniques to see what we could learn from datasets of our choice. With this in mind, I was drawn to datasets about online video games. The professional video game scene has seen huge growth in both revenue and online stream numbers. Teams are competing for huge cash prizes, and with so much money on the line, these teams are now starting to use data science in order to provide themselves with the best win conditions for the respective game they're playing. I was interested in match data from the most popular game in the world, *League* *of* *Legends*.  
 
 ### What is League of Legends?  
 
