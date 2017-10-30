@@ -31,4 +31,5 @@ Definitions for terminology I use throughout the notebooks.
   4. `Project_McNulty_EDA_Visuals.ipynb`  
   5. `Project_McNulty_Modeling.ipynb`  
 
-`Project_Data` contains pickle files created from notebooks.
+`Project_Data` contains pickle files created from notebooks.  
+The blog post can be found [here](https://zachheick.github.io/2017/10/25/Supervised-Learning-and-Online-Gaming/).
